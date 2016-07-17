@@ -1,4 +1,4 @@
-FROM alpine:4.3
+FROM alpine:3.4
 
 MAINTAINER Samuel mansour <s83@users.noreply.github.com>
 
